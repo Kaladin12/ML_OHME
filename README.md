@@ -1,4 +1,4 @@
-# aa
+# Reconocimiento y representación de expresiones matemáticas online mediante un encoder-decoder
 Proyecto genereado para la nateria de Aprendizaje de méquina.
 <ul>
   <li>Consiste en un modelo denominado encoder-decoder</li>
@@ -9,7 +9,16 @@ Proyecto genereado para la nateria de Aprendizaje de méquina.
   </ul>
 </ul>
 
-<div>Para hacer uso del modelo es necesario abrir el Jupiter Notebook, ejecutar la importacion de dependencias asi como aquellas celdas en las que se define el modelo y se importan los pesos derivados del proceso de entrenamiento</div>
+<div>
+  <h3>Miembros del equipo </h3>
+  <ul>
+    <li>Elian Javier Cruz Esquivel 32218</li>
+    <li>Rafael Viana Moutinho 31632</li>
+    <li>Luis Monroy Sandoval 26798</li>
+    </ul>
+</div>
+
+<div>Para hacer uso del modelo es necesario clonar el repositorio y abrir el Jupiter Notebook, ejecutar la importacion de dependencias asi como aquellas celdas en las que se define el modelo y se importan los pesos derivados del proceso de entrenamiento. Dentro del mismo se especifica aquellas celdas que no deben ser ejecitadas para evtar inconvenientes.</div>
 <h2>Dependencias requeridas</h2>
 <ul>
   <li>tensorflow 2.5.0</li>
