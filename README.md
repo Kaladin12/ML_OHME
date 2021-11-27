@@ -1,7 +1,7 @@
 # Reconocimiento y representación de expresiones matemáticas online mediante un encoder-decoder
 Proyecto genereado para la nateria de Aprendizaje de méquina.
 <ul>
-  <li>Consiste en un modelo denominado encoder-decoder</li>
+  <li>Consiste en un modelo denominado encoder-decoder basado en la metodología implementada por Zhang en el siguiente paper: https://doi.org/10.1016/j.patcog.2017.06.017</li>
   <ul>
     <li>Dentro del cual se ingresan imagenes representativas de espresiones matematicas escritas a mano (online) a una Fully Convolutional Network</li>
     <li>Posteriormente se hace uso de un enfoque conocido como Bahdanau Attention para obtener un contexto que permita reconocer las zonas de la imagen a las cuales prestar atención previo a la ralización de predicciones </li>
